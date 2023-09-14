@@ -8,8 +8,9 @@ Projeto voltado para a utilização do Tailwind CSS.
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![imagem do projeto pronto](https://github.com/Joao-VictorBarros/Alura-Newsletter/assets/102555418/aa147ace-e9f1-4028-a887-b90c0b5c5660)
+
+
 
 ## Detalhes do projeto
 
